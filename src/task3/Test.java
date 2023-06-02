@@ -6,4 +6,4 @@ package task3;
         public String value;
         public Test[] values;
     }
-}
+
